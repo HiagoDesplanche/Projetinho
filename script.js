@@ -109,7 +109,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Em 2045";
+    caixaPerguntas.textContent = "Você morre em 2045...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = ""; 
 }
